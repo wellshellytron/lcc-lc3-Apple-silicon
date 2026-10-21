@@ -5,7 +5,7 @@ LCC-LC3 C Compiler
 ####Oct 2026
 
 *Wesley Truong*
-I'm currently trying to push the limits of LC-3 architecture and see if it's possible to run Doom on it. As a side effect, I had to modify the Makefiles to remove the -m32 flag to make it compatible with my MacBook for this kind of testing since it causes problems for newer Apple M chips.
+I'm currently trying to push the limits of LC-3 architecture and see if it's possible to run Doom on it. As a side effect, I had to modify the Makefiles to remove the -m32 flag to make it compatible with my MacBook for this kind of testing since it causes problems for newer Apple Silicon chips.
 
 ####May 2012
 
